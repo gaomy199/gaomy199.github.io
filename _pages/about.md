@@ -14,6 +14,7 @@ profile:
     <p>Mobile: +86 17300986660</p>
     <p>Email1 : gaomy199@zju.edu.cn</p>
     <p>Email2 : gaomy199@gmail.com</p>
+    <p><i class="fa-solid fa-envelope"></i> <a href="#" onclick="navigator.clipboard.writeText('gaomy199@gmail.com'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='gaomy199@gmail.com', 1500); return false;">gaomy199@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
