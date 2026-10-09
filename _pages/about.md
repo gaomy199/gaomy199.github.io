@@ -10,10 +10,10 @@ profile:
   image_circular: false
   more_info: >
     <p><i class="fa-solid fa-building-columns"></i> <a href='https://earth.google.com/web/search/Yuquan+Campus,+Zhejiang+University,+38+Zheda+Road,+Hangzhou,+China'>Zhejiang University</a></p>
-    <p><i class="fa-solid fa-location-dot"></i> <a href="#" onclick="navigator.clipboard.writeText('Hangzhou, Zhejiang'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='Hangzhou, Zhejiang', 1500); return false;">Hangzhou, Zhejiang 310007, China</a></p>
+    <p><i class="fa-solid fa-location-dot"></i> <a href="#" onclick="navigator.clipboard.writeText('Hangzhou, Zhejiang'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='Hangzhou, Zhejiang', 1500); return false;">Hangzhou, 310007, China</a></p>
     <p><i class="fa-solid fa-phone"></i> <a href="#" onclick="navigator.clipboard.writeText('+86 17300986660'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='+86 17300986660', 1500); return false;">Mobile: +86 17300986660</a></p>
-    <p><i class="fa-solid fa-envelope"></i> <a href="#" onclick="navigator.clipboard.writeText('gaomy199@zju.edu.cn'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='gaomy199@zju.edu.cn', 1500); return false;">Email: gaomy199@zju.edu.cn</a></p>
-    <p><i class="fa-solid fa-envelope"></i> <a href="#" onclick="navigator.clipboard.writeText('gaomy199@gmail.com'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='gaomy199@gmail.com', 1500); return false;">Email: gaomy199@gmail.com</a></p>
+    <p><i class="fa-solid fa-envelope"></i> <a href="#" onclick="navigator.clipboard.writeText('gaomy199@zju.edu.cn'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='gaomy199@zju.edu.cn', 1500); return false;">Email : gaomy199@zju.edu.cn</a></p>
+    <p><i class="fa-solid fa-envelope"></i> <a href="#" onclick="navigator.clipboard.writeText('gaomy199@gmail.com'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='gaomy199@gmail.com', 1500); return false;">Email : gaomy199@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
