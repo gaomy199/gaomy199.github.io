@@ -5,14 +5,13 @@ permalink: /
 subtitle: <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. M.Eng. student in Control Engineering
 
 profile:
-  align: right
+  align: left
   image: my_picture.jpg
   image_circular: false
   more_info: >
-    <p>Zhejiang University</p>
-    <p>Zhejiang, China</p>
-    <p>Hangzhou,  310007</p>
-    <p>Mobile: +86 17300986660</p>
+    <p><a href='https://earth.google.com/web/search/Yuquan+Campus,+Zhejiang+University,+38+Zheda+Road,+Hangzhou,+China'>Yuquan Campus, Zhejiang University</a></p>
+    <p>Hangzhou, Zhejiang 310007, China</p>
+    <p>Mobile:  +86 17300986660</p>
     <p>email 1: gaomy199@zju.edu.cn</p>
     <p>email 2: gaomy199@gmail.com</p>
 
