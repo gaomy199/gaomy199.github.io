@@ -29,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a M.Eng. student in Control Engineering at the Institute of Engineers, Zhejiang University, under the supervision of Professor Liang Li. My research focuses on mobile manipulators, embodied intelligence, and autonomous driving of mining trucks.
+I am currently a M.Eng. student in Control Engineering, Zhejiang University, under the supervision of Professor Liang Li. My research focuses on mobile manipulators, embodied intelligence, and autonomous driving of mining trucks.
 
 I received my B.E. in Vehicle Engineering from the College of Energy Engineering, Zhejiang University in 2026, where my undergraduate research focused on mechanical modeling and design, vehicle dynamics, and Formula Student Electric Competition.
