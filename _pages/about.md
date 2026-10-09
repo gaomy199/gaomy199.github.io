@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. M.Eng. student in Control Engineering
 
 profile:
-  align: left
+  align: right
   image: my_picture.jpg
   image_circular: false
   more_info: >
