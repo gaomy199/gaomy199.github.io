@@ -12,8 +12,8 @@ profile:
     <p><a href='https://earth.google.com/web/search/Yuquan+Campus,+Zhejiang+University,+38+Zheda+Road,+Hangzhou,+China'>Zhejiang University</a></p>
     <p>Hangzhou, Zhejiang 310007, China</p>
     <p>Mobile: +86 17300986660</p>
-    <p>Email : gaomy199@zju.edu.cn</p>
-    <p>      : gaomy199@gmail.com</p>
+    <p>Email1 : gaomy199@zju.edu.cn</p>
+    <p>Email2 : gaomy199@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -36,14 +36,14 @@ I received my B.E. in Vehicle Engineering from the College of Energy Engineering
 <style>
 body {
   font-family: Arial, Helvetica, "Liberation Sans", "Microsoft YaHei", sans-serif !important;
-  font-size: 27px;
+  font-size: 37px;
   line-height: 1.7;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, "Liberation Sans", "Microsoft YaHei", sans-serif !important;
 }
 .profile img {
-  max-width: 180px;
+  max-width: 250px;
   height: auto;
 }
 </style>
