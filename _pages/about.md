@@ -36,14 +36,14 @@ I received my B.E. in Vehicle Engineering from the College of Energy Engineering
 <style>
 body {
   font-family: Arial, Helvetica, "Liberation Sans", "Microsoft YaHei", sans-serif !important;
-  font-size: 37px;
+  font-size: 17px;
   line-height: 1.7;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, "Liberation Sans", "Microsoft YaHei", sans-serif !important;
 }
 .profile img {
-  max-width: 250px;
+  max-width: 180px;
   height: auto;
 }
 </style>
