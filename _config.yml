@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: mobile manipulators, embodied intelligence, autonomous driving, mechanical modeling, vehicle dynamics, Formula Student Electric
 lang: en
-icon: my_website_con.png # ⚛️the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: my_website_icon.png # ⚛️the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://gaomy199.github.io # the base hostname & protocol for your site
