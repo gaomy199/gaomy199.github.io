@@ -4,13 +4,13 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Meiyi
-middle_name: 
+middle_name:
 last_name: Gao
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am currently a master's student in Control Engineering at the Institute of Engineers, Zhejiang University, under the supervision of Professor Liang Li. My research focuses on mobile manipulators, embodied intelligence, and autonomous driving of mining trucks.
-  I received my B.E. in Vehicle Engineering from the College of Energy Engineering, Zhejiang University in 2026, where my undergraduate research focused on mechanical modeling and design, vehicle dynamics, and Formula Student Electric Computition.
+  I am currently a M.Eng. student in Control Engineering at the Institute of Engineers, Zhejiang University, under the supervision of Professor Liang Li. My research focuses on mobile manipulators, embodied intelligence, and autonomous driving of mining trucks.
+  I received my B.E. in Vehicle Engineering from the College of Energy Engineering, Zhejiang University in 2026, where my undergraduate research focused on mechanical modeling and design, vehicle dynamics, and Formula Student Electric Competition.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

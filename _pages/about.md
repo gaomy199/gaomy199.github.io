@@ -2,16 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='[#](https://www.zju.edu.cn/english/)'>Zhejiang University</a>. M.Eng. student Control Engineering
 
 profile:
   align: right
   image: my_picture.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>+86 173 0098 6660</p>
+    <p>Zhejiang University</p>
     <p>Zhejiang, China</p>
-    <p>Hangzhou, Zhejiang university 310007</p>
+    <p>Hangzhou,  310007</p>
+    <p>Mobile: +86 17300986660</p>
+    <p>email 1: <a href="gaomy199@zju.edu.cn">gaomy199@zju.edu.cn</a></p>
+    <p>email 2: <a href="gaomy199@gmail.com">gaomy199@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +30,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `my_picture.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a M.Eng. student in Control Engineering at the Institute of Engineers, Zhejiang University, under the supervision of Professor Liang Li. My research focuses on mobile manipulators, embodied intelligence, and autonomous driving of mining trucks.
+I received my B.E. in Vehicle Engineering from the College of Energy Engineering, Zhejiang University in 2026, where my undergraduate research focused on mechanical modeling and design, vehicle dynamics, and Formula Student Electric Competition.
