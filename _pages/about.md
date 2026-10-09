@@ -36,7 +36,7 @@ I received my B.E. in Vehicle Engineering from the College of Energy Engineering
 <style>
 body {
   font-family: Arial, Helvetica, "Liberation Sans", "Microsoft YaHei", sans-serif !important;
-  font-size: 17px;
+  font-size: 27px;
   line-height: 1.7;
 }
 h1, h2, h3, h4, h5, h6 {
