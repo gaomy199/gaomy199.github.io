@@ -73,7 +73,7 @@ cv:
 
       - title: >
           First-Class Scholarship, Zhejiang University
-        highlights:
+        summary:
           - First Prize (National), National College Student Energy Conservation and Emission Reduction Competition (Ranked 4th in the team)
           - Third Prize (National), Formula SAE China
           - Outstanding Student
@@ -84,7 +84,7 @@ cv:
 
       - title: >
           Third-Class Scholarship, Zhejiang University
-        highlights:
+        summary:
           - First Prize, National College Student Mathematics Competition (Zhejiang Division)
           - Outstanding Student
           - Model Student of Academic Excellence
@@ -95,35 +95,32 @@ cv:
 
       - title: >
           Third-Class Scholarship, Zhejiang University
-        highlights:
+        summary:
           - Model Student of Academic Excellence
           - Model Student of Innovation and Entrepreneurship
           - Model Student of Public Service
         date: 2024
 
     Publications:
-      - title:
-        authors:
-          -
-        publisher:
-        releaseDate:
-        url:
-        summary:
-
-    Patents:
       - title: An Omnidirectional Mobile Manipulation Robot with Hierarchical Power Management and Dual-Master Control Architecture
-        date: 2026-08
-        location: Chinese Invention Patent (Pending)
+        authors: 
+          - Liang Li, Meiyi Gao
+        publisher: Chinese Invention Patent (Pending)
+        releaseDate: 2026-08
         summary: Application No.:CN202611252981.8 (2nd Inventor)
-
+      
       - title: A System Utilizing a Stirling Engine to Recover Exhaust Internal Energy for Energetic Gel Fuel Supply
-        date: 2025-04
-        location: Chinese Invention Patent (Pending)
+        authors: 
+          - Zhengbang Fan, JIng Wang, Meiyi Gao, et al
+        publisher: Chinese Invention Patent (Pending)
+        releaseDate: 2025-04
         summary: Application No.:CN202510566524.5 (3rd Inventor)
 
       - title: A Thermoelectric Generator Device for Range Extender Engines
-        date: 2024-07
-        location: Chinese Invention Patent (Pending)
+        authors: 
+          - Meiyi Gao, Haixuan Wang, Huayu Tu, et al
+        publisher: Chinese Invention Patent (Pending)
+        releaseDate: 2024-07
         summary: Application No.:CN202410950742.4 (1st Inventor)
 
     Skills:
