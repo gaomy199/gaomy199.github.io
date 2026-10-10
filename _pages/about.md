@@ -46,4 +46,10 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 180px;
   height: auto;
 }
+.more-info,
+.more-info p,
+.more-info a {
+  font-family: Arial, Helvetica, "Liberation Sans", "Microsoft YaHei", sans-serif !important;
+  font-size: 16px !important;
+}
 </style>
