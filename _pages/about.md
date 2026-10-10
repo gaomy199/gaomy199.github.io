@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p><i class="fa-solid fa-building-columns"></i> <a href='https://earth.google.com/web/search/Yuquan+Campus,+Zhejiang+University,+38+Zheda+Road,+Hangzhou,+China'>Zhejiang University</a></p>
-    <p><i class="fa-solid fa-location-dot"></i> <a href="#" onclick="navigator.clipboard.writeText('Hangzhou, Zhejiang'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='Hangzhou, Zhejiang', 1500); return false;">Hangzhou, 310007, China</a></p>
+    <p><i class="fa-solid fa-location-dot"></i> <a href="#" onclick="navigator.clipboard.writeText('Hangzhou, Zhejiang'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='Hangzhou, Zhejiang', 1500); return false;">310027, Hangzhou, China</a></p>
     <p><i class="fa-solid fa-phone"></i> <a href="#" onclick="navigator.clipboard.writeText('+86 17300986660'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='+86 17300986660', 1500); return false;">Mobile: +86 17300986660</a></p>
     <p><i class="fa-solid fa-envelope"></i> <a href="#" onclick="navigator.clipboard.writeText('gaomy199@zju.edu.cn'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='gaomy199@zju.edu.cn', 1500); return false;">Email : gaomy199@zju.edu.cn</a></p>
     <p><i class="fa-solid fa-envelope"></i> <a href="#" onclick="navigator.clipboard.writeText('gaomy199@gmail.com'); this.textContent='copied ✓'; setTimeout(()=>this.textContent='gaomy199@gmail.com', 1500); return false;">Email : gaomy199@gmail.com</a></p>
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a M.Eng. student in Control Engineering, Zhejiang University, under the supervision of <a href='https://person.zju.edu.cn/LiangLi'>Professor Liang Li</a>. My research focuses on mobile manipulators, embodied intelligence, and autonomous driving of mining trucks.
+I am currently a M.Eng. student in Control Engineering, Zhejiang University, under the supervision of Professor <a href='https://person.zju.edu.cn/LiangLi'>Liang Li</a>. My research focuses on mobile manipulators, embodied intelligence, and autonomous driving of mining trucks.
 
 I received my B.E. in Vehicle Engineering from the College of Energy Engineering, Zhejiang University in 2026, where my undergraduate research focused on mechanical modeling and design, vehicle dynamics, and Formula Student Electric Competition.
 

@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gao Meiyi",
+    "label": "M.Eng.student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gaomy199@gmail.com",
+    "phone": "+86 17300986660",
+    "summary": "A M.Eng. student at Zhejiang University working on mobile manipulation and embodied intelligence.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Yuquan Campus, Zhejiang University",
+      "postalCode": "310027",
+      "city": "Hangzhou",
+      "countryCode": "China",
+      "region": "Zhejiang"
     },
     "profiles": []
   },
