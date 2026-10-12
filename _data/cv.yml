@@ -166,10 +166,9 @@ cv:
         icon: fa-solid fa-tag
 
     Projects:
-      - name: Quantum Computing
-        summary: known as quantum computers.
+      - name: 
+        summary: 
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - 
+        start_date: 
+        end_date: 
